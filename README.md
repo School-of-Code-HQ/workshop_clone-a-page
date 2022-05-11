@@ -1,10 +1,16 @@
 # Clone a Page
 
-Choose what page you will be recreating.
+Choose a website, analyze its design, and try to recreate a clone of its home page using your design and CSS skills.
 
-|Idea|Website|
-|--|--|
-|![image](https://user-images.githubusercontent.com/81427392/167630021-b2847103-5345-4616-aeab-a0bcb7d788c4.png)| https://www.ubereats.com/ |
-|![image](https://user-images.githubusercontent.com/81427392/167630867-b5c495f1-73d0-40d0-944a-b746f772ad50.png)| https://www.ferrari.com/  |
-|![image](https://user-images.githubusercontent.com/81427392/167631153-f3fb24fa-53d0-46eb-8473-23448b831566.png)| https://www.tesla.com/    |
-|![image](https://user-images.githubusercontent.com/81427392/167631466-47360f2f-6a4c-4863-8089-6eb4af1aff49.png)| https://www.google.com/   |
+First, break down the design, and make a plan of how you're going to tackle each part. This includes how you'll plan to organize your CSS. Then, create your HTML and CSS files and start creating your clone!
+
+## Ideas
+
+- [Uber Eats](https://www.ubereats.com/)
+- [Twitter](https://www.twitter.com/)
+- [Facebook](https://www.facebook.com/)
+- [Google](https://www.google.com/) - with VS Code this time! :)
+- [Tesla](https://www.tesla.com/)
+- [Ferrari](https://www.ferrari.com/)
+- [BBC](https://www.bbc.co.uk/)
+- Or any other site...!
